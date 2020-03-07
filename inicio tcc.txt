@@ -1,0 +1,2 @@
+No dia 06/03 começamos a desenvolver no arduino a ajuda do professor Adriano Castro de PW. 
+Usamos a placa plathoboard, o arduino, server motor, resistores e jumpers
