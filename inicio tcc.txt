@@ -1,2 +1,3 @@
-No dia 06/03 come�amos a desenvolver no arduino a ajuda do professor Adriano Castro de PW. 
+No dia 06/03 começamos a desenvolver no arduino a ajuda do professor Adriano Castro de PW. 
 Usamos a placa plathoboard, o arduino, server motor, resistores e jumpers
+Em continuação no dia 10/03 o grupo começou a desenvolver o servo motor do arduino, fazendo a ligação dos códigos juntamente com arduino uno.
